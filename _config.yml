@@ -18,12 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Front Page - areif-dev
+title: "Front Page - areif-dev"
 description: >- # this means to ignore newlines until "baseurl:"
-  Front page for Adam Reifsnyder
+  "Front page for Adam Reifsnyder"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  areif-dev
+github_username: "areif-dev"
 
 # Build settings
 remote_theme: pages-themes/hacker@v0.2.0
