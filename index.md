@@ -5,6 +5,6 @@
 layout: default
 ---
 
-# Heading
+# Theme
 
-Hello, world
+Hacker
