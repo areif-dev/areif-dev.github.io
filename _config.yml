@@ -26,7 +26,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  areif-dev
 
 # Build settings
-theme: minima
+theme: hacker
 plugins:
   - jekyll-feed
 
