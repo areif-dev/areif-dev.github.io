@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+# Heading
+
+Hello, world
