@@ -1,7 +1,4 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: default
 title: Adam's Portfolio
 ---
@@ -9,6 +6,9 @@ title: Adam's Portfolio
 ### Navigation
 
 - **[Code Review](/)**
+- [Artifact 1: Android Inventory](/artifacts/android-inventory.md)
+- [Artifact 2: Encryption](/artifacts/encryption.md)
+- [Artifact 3: Fullstack with PostgreSQL](/artifacts/fullstack-with-postgresql.md)
 
 ## Code Review
 
