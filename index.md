@@ -7,8 +7,6 @@ layout: default
 
 ## Code Review
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ykhneko8Hd0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 [![](https://markdown-videos.vercel.app/youtube/Ykhneko8Hd0)](https://youtu.be/Ykhneko8Hd0)
-
-## Test video
-
-https://youtu.be/Ykhneko8Hd0
