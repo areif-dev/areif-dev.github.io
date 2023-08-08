@@ -2,3 +2,40 @@
 ---
 
 @import "{{ site.theme }}";
+
+/* Base styles for iframe container */
+.iframe-container {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+}
+
+/* Aspect ratio padding */
+.iframe-container:before {
+  content: "";
+  display: block;
+  padding-top: 56.25%; /* 315 / 560 * 100 */
+}
+
+/* Actual iframe */
+.iframe-container .yt-video {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+
+/* Media query for screens larger than 600px */
+@media screen and (min-width: 601px) {
+  .iframe-container {
+    width: 560px;
+    height: 315px;
+  }
+  
+  /* Reset aspect ratio padding */
+  .iframe-container:before {
+    padding-top: 0;
+  }
+}
