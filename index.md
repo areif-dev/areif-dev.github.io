@@ -3,12 +3,7 @@ layout: default
 title: Adam's Portfolio
 ---
 
-### Navigation
-
-- **[Introduction](/)**
-- [Artifact 1: Android Inventory](/artifacts/android-inventory)
-- [Artifact 2: Encryption](/artifacts/encryption)
-- [Artifact 3: Fullstack with PostgreSQL](/artifacts/fullstack-with-postgresqL)
+{% include nav.md page="/" %}
 
 ## Self Assessment
 
