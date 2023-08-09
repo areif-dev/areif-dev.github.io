@@ -18,9 +18,9 @@ title: "Artifact 1: Android Inventory"
 
 The first artifact in my portfolio is an Android app for managing inventory. I built it as a final project for CS 360 during my Junior year of university. This app started as an introduction to SQLite and Android development in general, but it has actually served me well when taking stock of my fridge and pantry for making shopping lists and generally being aware of what I have available.
 
-|                Add Product Screen                |             Scan Product Screen             |                    Inventory Screen                     |
-| :----------------------------------------------: | :-----------------------------------------: | :-----------------------------------------------------: |
-| ![add_product_screen](/assets/imgs/add_item.jpg) | ![scanner_screen](/assets/imgs/scanner.jpg) | ![inventory_screen](/assets/imgs/inventory_listing.jpg) |
+|                Add Product Screen                |             Scan Product Screen             |                     Inventory Screen                     |
+| :----------------------------------------------: | :-----------------------------------------: | :------------------------------------------------------: |
+| ![add_product_screen](/assets/imgs/add_item.jpg) | ![scanner_screen](/assets/imgs/scanner.jpg) | ![inventory_screen](/assets/imgs/inventory_listings.jpg) |
 
 ### Justification
 
