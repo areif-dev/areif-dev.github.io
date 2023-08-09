@@ -3,7 +3,7 @@ layout: default
 title: "Artifact 3: Fullstack with PostgreSQL"
 ---
 
-{% include nav.md page="/fullstack-with-postgres" %}
+{% include nav.md page="/fullstack-with-postgresql" %}
 
 ## Artifact 3: Fullstack with PostgreSQL
 
