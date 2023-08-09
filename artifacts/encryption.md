@@ -18,9 +18,9 @@ title: "Artifact 2: Encryption"
 
 This artifact is from CS 405, which I completed during my junior year. Originally, this artifact was intended to demonstrate my ability to implement a very simple cipher to show how encryption can be used to secure data. The original implementation of this artifact was very limited because it was only able to accept input from a very specific file format, and it was also very insecure because the cipher it used only produced a byte-wise xor of the input and a key.
 
-![Encryption Command Demonstration](/assets/imgs/encryption_demo.png)
-
-A brief demonstration of the main functionality of the encryption command.
+|                   Encryption Command Deomonstration                   |
+| :-------------------------------------------------------------------: |
+| ![encryption_command_demonstration](/assets/imgs/encryption_demo.png) |
 
 ### Justification
 
