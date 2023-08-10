@@ -13,6 +13,10 @@ title: "Artifact 3: Fullstack with PostgreSQL"
 
 This artifact is from CS 465. I completed the original version in my senior year. It’s purpose was to demonstrate my ability to develop a fullstack web application complete with a database, a user facing website, and an administrative web app. The application was built using the MEAN stack, which stands for MongoDB, Express, Angular, and Node, so the project was written in JavaScript and used MongoDB for the database.
 
+|                 Travlr Class Diagram                 |
+| :--------------------------------------------------: |
+| ![travlr_class_diagram](/assets/imgs/travlr_uml.png) |
+
 ### Justification
 
 This project showcases my knowledge of numerous technologies such as MongoDB, PostgreSQL, Node.js, Express, and Angular. It is also a great example of my ability to develop a full stack web application completely from scratch. The project also shows that I'm capable of migrating a project to a completely different database if necessary.
