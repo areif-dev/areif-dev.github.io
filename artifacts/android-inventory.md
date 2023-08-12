@@ -9,6 +9,11 @@ title: "Artifact 1: Android Inventory"
 
 ## Competency: Software Engineering and Design
 
+### Repo Links
+
+- Original Code: [https://github.com/areif-dev/CS360-android-app/tree/original-cs360-code](https://github.com/areif-dev/CS360-android-app/tree/original-cs360-code)
+- Enhanced Code: [https://github.com/areif-dev/CS360-android-app/tree/enhancements](https://github.com/areif-dev/CS360-android-app/tree/enhancements)
+
 ### Description
 
 The first artifact in my portfolio is an Android app for managing inventory. I built it as a final project for CS 360 during my Junior year of university. This app started as an introduction to SQLite and Android development in general, but it has actually served me well when taking stock of my fridge and pantry for making shopping lists and generally being aware of what I have available.

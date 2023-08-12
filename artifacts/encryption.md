@@ -9,6 +9,11 @@ title: "Artifact 2: Encryption"
 
 ## Competency: Algorithms and Data Structures
 
+### Repo Links
+
+- Original Code: [https://github.com/areif-dev/CS405/tree/original-cs405-code](https://github.com/areif-dev/CS405/tree/original-cs405-code)
+- Enhanced Code: [https://github.com/areif-dev/CS405/tree/enhancements](https://github.com/areif-dev/CS405/tree/enhancements)
+
 ### Description
 
 This artifact is from CS 405, which I completed during my junior year. Originally, this artifact was intended to demonstrate my ability to implement a very simple cipher to show how encryption can be used to secure data. The original implementation of this artifact was very limited because it was only able to accept input from a very specific file format, and it was also very insecure because the cipher it used only produced a byte-wise xor of the input and a key.
