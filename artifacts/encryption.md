@@ -11,8 +11,8 @@ title: "Artifact 2: Encryption"
 
 ### Repo Links
 
-- Original Code: [https://github.com/areif-dev/CS405/tree/original-cs405-code](https://github.com/areif-dev/CS405/tree/original-cs405-code)
-- Enhanced Code: [https://github.com/areif-dev/CS405/tree/enhancements](https://github.com/areif-dev/CS405/tree/enhancements)
+- Original Code: [https://github.com/areif-dev/CS405/tree/original-cs405-code](https://github.com/areif-dev/CS405/tree/original-cs405-code)[newtab]
+- Enhanced Code: [https://github.com/areif-dev/CS405/tree/enhancements](https://github.com/areif-dev/CS405/tree/enhancements)[newtab]
 
 ### Description
 

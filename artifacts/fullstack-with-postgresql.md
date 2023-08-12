@@ -11,8 +11,8 @@ title: "Artifact 3: Fullstack with PostgreSQL"
 
 ### Repo Links
 
-- Original Code: [https://github.com/areif-dev/cs465-fullstack](https://github.com/areif-dev/cs465-fullstack)
-- Enhanced Code: [https://github.com/areif-dev/cs465-fullstack/tree/enhancements](https://github.com/areif-dev/cs465-fullstack/tree/enhancements)
+- Original Code: [https://github.com/areif-dev/cs465-fullstack](https://github.com/areif-dev/cs465-fullstack)[newtab]
+- Enhanced Code: [https://github.com/areif-dev/cs465-fullstack/tree/enhancements](https://github.com/areif-dev/cs465-fullstack/tree/enhancements)[newtab]
 
 ### Description
 
