@@ -22,6 +22,15 @@ This artifact is from CS 405, which I completed during my junior year. Originall
 | :-------------------------------------------------------------------: |
 | ![encryption_command_demonstration](/assets/imgs/encryption_demo.png) |
 
+### Enhancements Performed
+
+1. Reimplement original XOR encode algorithm in Rust for better memory safety
+2. Use clap crate to create a more robust and flexible CLI
+3. Implement AES-GCM for improved security over XOR encoding
+4. Add CLI subcommands for switching between AES-GCM and simple cipher
+5. Add unit tests for XOR cipher, encrypting and decrypting with AES-GCM to verify they function as expected
+6. Document previously undocumented functions
+
 ### Justification
 
 Despite the limitations of the original implementation of this artifact, I have chosen to include it in my portfolio because I have turned it into a general purpose command line interface that implements AES-GCM for much more secure symmetric encryption. I have also made the command line interface more useful by allowing users to provide their own key, as well as their own data in any format that they choose.

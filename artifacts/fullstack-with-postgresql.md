@@ -22,6 +22,12 @@ This artifact is from CS 465. I completed the original version in my senior year
 | :--------------------------------------------------: |
 | ![travlr_class_diagram](/assets/imgs/travlr_uml.png) |
 
+### Enhancements Performed
+
+1. Replace MongoDB connection in [app_api/database/db.js](https://github.com/areif-dev/cs465-fullstack/blob/enhancements/app_api/database/db.js) with connection to PostgreSQL
+2. Replace Mongo schema for Trips with a JS class and implement CRUD operations for Postgres [app_api/database/models/travlr.js](https://github.com/areif-dev/cs465-fullstack/blob/enhancements/app_api/database/models/travlr.js)
+3. Replace Mongo schema for Users with a JS class and implement CRUD operations for Postgres [app_api/database/models/user.js](https://github.com/areif-dev/cs465-fullstack/blob/enhancements/app_api/database/models/user.js)
+
 ### Justification
 
 This project showcases my knowledge of numerous technologies such as MongoDB, PostgreSQL, Node.js, Express, and Angular. It is also a great example of my ability to develop a full stack web application completely from scratch. The project also shows that I'm capable of migrating a project to a completely different database if necessary.

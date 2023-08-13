@@ -22,6 +22,16 @@ The first artifact in my portfolio is an Android app for managing inventory. I b
 | :----------------------------------------------: | :-----------------------------------------: | :------------------------------------------------------: |
 | ![add_product_screen](/assets/imgs/add_item.jpg) | ![scanner_screen](/assets/imgs/scanner.jpg) | ![inventory_screen](/assets/imgs/inventory_listings.jpg) |
 
+### Enhancements Performed
+
+1. Remove unnecessary user accounts and login screen because all information is stored locally
+2. Add Google Zebra Crossing library for reading barcodes
+3. Create new Activity for opening camera and automatically scan US or EU style UPCs
+4. Identify products by UPC using free, public data from [upcitemdb.com](https://upcitemdb.com)
+5. Automatically update quantity on hand for a product whenever its UPC is scanned
+6. Improve dark theme support by using default adaptive Android font colors
+7. Document previously undocumented functions and classes
+
 ### Justification
 
 I included this application in my portfolio because it showcases my knowledge in technologies such as relational databases, Java, Android, emulation, and build systems such as Gradle. Additionally, the new barcode scanning activity showcases my ability to use the hardware of a device to create a better experience for users while the inclusion of a form to manually enter products demonstrates my ability to create more inclusive interfaces for devices with hardware limitations.
