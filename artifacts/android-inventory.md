@@ -11,8 +11,8 @@ title: "Artifact 1: Android Inventory"
 
 ### Repo Links
 
-- Original Code: [https://github.com/areif-dev/CS360-android-app/tree/original-cs360-code](https://github.com/areif-dev/CS360-android-app/tree/original-cs360-code)[newtab]
-- Enhanced Code: [https://github.com/areif-dev/CS360-android-app/tree/enhancements](https://github.com/areif-dev/CS360-android-app/tree/enhancements)[newtab]
+- Original Code: <a href="https://github.com/areif-dev/CS360-android-app/tree/original-cs360-code" target="_blank">https://github.com/areif-dev/CS360-android-app/tree/original-cs360-code</a>
+- Enhanced Code: <a href="https://github.com/areif-dev/CS360-android-app/tree/enhancements" target="_blank">https://github.com/areif-dev/CS360-android-app/tree/enhancements</a>
 
 ### Description
 
