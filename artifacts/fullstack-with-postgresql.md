@@ -27,6 +27,16 @@ This artifact is from CS 465. I completed the original version in my senior year
 1. Replace MongoDB connection in [app_api/database/db.js](https://github.com/areif-dev/cs465-fullstack/blob/enhancements/app_api/database/db.js) with connection to PostgreSQL
 2. Replace Mongo schema for Trips with a JS class and implement CRUD operations for Postgres [app_api/database/models/travlr.js](https://github.com/areif-dev/cs465-fullstack/blob/enhancements/app_api/database/models/travlr.js)
 3. Replace Mongo schema for Users with a JS class and implement CRUD operations for Postgres [app_api/database/models/user.js](https://github.com/areif-dev/cs465-fullstack/blob/enhancements/app_api/database/models/user.js)
+4. Switch all database and subsequent API calls to use async-await
+5. Document previously undocumented classes and functions
+
+### Skills Demonstrated
+
+1. (Original Code) - Proficiency in MongoDB
+2. Proficiency in PostgreSQL / relational databases generally
+3. Proficiency in web technologies (HTML, JavaScript, CSS)
+4. Ability to build fullstack webapps from scratch
+5. Proficiency with NodeJS
 
 ### Justification
 
@@ -39,6 +49,8 @@ Most of the enhancements I made to this project are in the app_api folder. This 
 My primary objective with this artifact was to demonstrate an ability to use well-founded tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals. I accomplished this objective by modifying a full stack web application to use PostgreSQL instead of MongoDB.
 
 I also achieved the goal of developing a security mindset that anticipates adversarial exploits in software architecture and designs to ensure privacy and enhanced security of data and resources by writing the database connection to require a non-root level user for managing the Travlr database and storing the password the that user in a file outside of version control.
+
+Another objective that this artifact completes is delivering professional-quality visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts. I designed a small UML class diagram for this artifact that outlines the fields, methods, and relationship between the User and Trip classes. I designed this diagram for more a more technical audience who is familiar with UML, but the visual nature of the diagram should make it relatively easy for anyone to understand.
 
 ### Reflection
 

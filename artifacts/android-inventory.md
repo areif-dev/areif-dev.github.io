@@ -32,6 +32,14 @@ The first artifact in my portfolio is an Android app for managing inventory. I b
 6. Improve dark theme support by using default adaptive Android font colors
 7. Document previously undocumented functions and classes
 
+### Skills Demonstrated
+
+1. Proficiency in Java, Gradle, and the Android SDK
+2. Ability to leverage hardware of embedded devices to improve user experience
+3. Proficiency in designing mobile user interfaces
+4. Proficiency in SQLite and relational databases in general
+5. Ability to leverage 3rd party REST APIs for data aggregation
+
 ### Justification
 
 I included this application in my portfolio because it showcases my knowledge in technologies such as relational databases, Java, Android, emulation, and build systems such as Gradle. Additionally, the new barcode scanning activity showcases my ability to use the hardware of a device to create a better experience for users while the inclusion of a form to manually enter products demonstrates my ability to create more inclusive interfaces for devices with hardware limitations.

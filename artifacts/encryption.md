@@ -31,6 +31,14 @@ This artifact is from CS 405, which I completed during my junior year. Originall
 5. Add unit tests for XOR cipher, encrypting and decrypting with AES-GCM to verify they function as expected
 6. Document previously undocumented functions
 
+### Skills Demonstrated
+
+1. Proficiency with Rust
+2. Ability to translate code from one language to another
+3. Basic knowledge of cryptographic algorithms and standards
+4. Ability to design and write unit tests for code validation
+5. Ability to design modern command line interfaces
+
 ### Justification
 
 Despite the limitations of the original implementation of this artifact, I have chosen to include it in my portfolio because I have turned it into a general purpose command line interface that implements AES-GCM for much more secure symmetric encryption. I have also made the command line interface more useful by allowing users to provide their own key, as well as their own data in any format that they choose.
@@ -44,6 +52,12 @@ Taking a closer look at the project, functions such as aes_gcm_enc and aes_gcm_d
 The primary objective that I hoped to achieve with this project was showcasing a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources. I achieved this goal by implementing a cryptographically secure encryption algorithm called Galois/Counter Mode that uses symmetric key encryption as well as a nonce or a Number Used Once to add an extra layer of obfuscation to encrypted messages. I also enhanced security by writing the program in Rust, which improves memory safety by limiting the number of mutable references to a shared memory location to one. This limitation is enforced at compile time, and it helps to mitigate overwriting data or accessing freed memory.
 
 Another objective that I set for this project was to design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices. In this project, I was able to solve the problem of needing to send data between two computers securely by using the AES-GCM algorithm. I also designed a command line interface to make calls to this algorithm more intuitively.
+
+Another objective for this project was to employ strategies for building collaborative environments that enable diverse audiences to support organizational decision making in the field of computer science. This project showcases my ability to create such a collaborative environment with the extensive documentation I have written for it. Every struct and function in the lib.rs and main.rs files has full markdown compatible documentation so any other developers can jump in and easily understand what each function does. Additionally, the strongly typed nature of Rust means that the arguments and return types of all my functions is very clear, which will also help developers in their understanding of the code.
+
+Besides creating documentation for developers, I have also provided help messages in the CLI binary. This could be beneficial to developers, but it is primarily intended for regular users of the program, which may be lay persons with limited programming knowledge. The presence of these help messages will help just about anyone understand what the program does and how to actually use it.
+
+Incidentally, this help documentation also serves the purpose of designing and delivering professional-quality written communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts. The help documentation for the encryption program is written for general users of the program, who may not have any idea what AES-GCM or a "nonce" is. The help documentation exists to help explain those lesser known concepts to those users so they can still use and benefit from the added security offered by the program.
 
 ### Reflection
 
